@@ -1,0 +1,14 @@
+export const EMAIL_CHANGED = 'email_changed';
+export const PWD_CHANGED = 'pwd_changed';
+export const LOGIN = 'login';
+export const LOGIN_SUCCESS = 'login_success';
+export const LOGIN_FAIL = 'login_fail';
+export const EMPLOYEE_UPDATE = 'employee_update';
+export const EMPLOYEE_CREATE = 'employee_create';
+export const EMPLOYEE_CREATING = 'employee_creating';
+export const EMPLOYEES_FETCH_SUCCESS = 'employees_fetch_success';
+export const EMPLOYEES_FETCHING = 'employees_fetching';
+export const EMPLOYEE_SAVE = 'employee_save';
+export const EMPLOYEE_SAVING = 'employee_saving';
+export const EMPLOYEE_DELETE = 'employee_delete';
+export const EMPLOYEE_DELETING = 'employee_deleting';
